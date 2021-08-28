@@ -1,0 +1,12 @@
+[submodule "themes/codinfox-zola"]
+	path = themes/codinfox-zola
+	url = https://github.com/svavs/codinfox-zola
+[submodule "themes/hyde"]
+	path = themes/hyde
+	url = https://github.com/getzola/hyde
+[submodule "themes/juice"]
+	path = themes/juice
+	url = https://github.com/huhu/juice
+[submodule "themes/Zulma"]
+	path = themes/Zulma
+	url = https://github.com/Worble/Zulma
